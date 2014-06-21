@@ -1,10 +1,9 @@
-/**
- * Duel Fight Game - FINISHED
-   Programming for Web Applications I  
-   Assignment 1
-   Name: Alex Onate
-   Date: 06/08/2014
+/*
+Alex Onate
+PWA-1
+06/20/2014
 */
+
 (function(){
 
 	console.log("** Fight **"); //Print title to Console.log
@@ -27,13 +26,13 @@ button.addEventListener("click", fight, false);
 var fighters = [
 
 	{
-		name: "Spiderman",
+		name: "Superman",
 		damage: 20,
 		health: 100
 
 	},
 	{
-		name:"Dark Knight",
+		name:"Batman",
 		damage: 20,
 		health: 100
 
